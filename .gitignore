@@ -8,3 +8,5 @@ bin/
 /.cquery_cached_index
 
 *build*
+asset/*.js
+asset/*.png
