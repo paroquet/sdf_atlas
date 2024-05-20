@@ -6,3 +6,5 @@ bin/
 *.o
 .cquery
 /.cquery_cached_index
+
+*build*
